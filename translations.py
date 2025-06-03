@@ -1,0 +1,40 @@
+translations = {
+    "Română": {
+        "title": "💧 Analiza și Prognoza Calității Apei",
+        "initial_data": "Set de date inițial",
+        "filter_header": "Filtrează datele",
+        "select_countries": "Selectează țări:",
+        "select_all_countries": "Selectează toate țările",
+        "select_years": "Selectează ani:",
+        "select_all_years": "Selectează toți anii",
+        "select_region": "Selectează regiuni:",
+        "apply_filters": "Aplică filtre",
+        "filtered_data": "📈 Analiză date filtrate",
+        "contaminant_level": "Nivelul mediu de contaminanți pe an și regiune",
+        "clean_water_access": "Acces mediu la apă curată (%) pe an și regiune",
+        "forecast": "🚀 Prognoză pentru anii viitori",
+        "forecast_indicator": "Selectează indicatorul pentru prognoză:",
+        "historical": "date istorice",
+        "prediction": "prognoză",
+        "year": "An"
+    },
+    "Deutsch": {
+        "title": "💧 Analyse und Prognose der Wasserqualität",
+        "initial_data": "Ursprünglicher Datensatz",
+        "filter_header": "Filtere die Daten",
+        "select_countries": "Länder auswählen:",
+        "select_all_countries": "Alle Länder auswählen",
+        "select_years": "Jahre auswählen:",
+        "select_all_years": "Alle Jahre auswählen",
+        "select_region": "Regionen auswählen:",
+        "apply_filters": "Filter anwenden",
+        "filtered_data": "📈 Analyse gefilterter Daten",
+        "contaminant_level": "Durchschnittlicher Kontaminationsgrad",
+        "clean_water_access": "Durchschnittlicher Zugang zu sauberem Wasser (%)",
+        "forecast": "🚀 Prognose für zukünftige Jahre",
+        "forecast_indicator": "Wähle den Indikator für die Prognose:",
+        "historical": "historische Daten",
+        "prediction": "Prognose",
+        "year": "Jahr"
+    }
+}
